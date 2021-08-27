@@ -1,0 +1,3 @@
+Biblioteca de classes que tem como função validar dados como CPF, CNPJ, CEP e Telefone, e retornar no padrão nacional,
+assim como, salvar data de registro de um novo usuário e informar há quanto tempo tal usuário está cadastrado,
+retornando, sempre, no padrão nacional de data e hora
